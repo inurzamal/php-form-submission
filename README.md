@@ -4,5 +4,5 @@
 (sl,name,age,email,phone,message,dt)
 
 Some data types 
-sl-int auto increment primary key
+sl-int auto increment primary key.
 dt- datetime current_timestamp()
