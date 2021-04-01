@@ -1,6 +1,6 @@
 # php-form-submission
-Create a database with the name trip
-Create a table named student inside the trip database using the following column names
+1) Create a database with the name trip.
+2) Create a table named student inside the trip database using the following column names
 (sl,name,age,email,phone,message,dt)
 
 Some data types 
